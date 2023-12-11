@@ -1,2 +1,2 @@
 # coin-flip
-Coin flip web application created for previous job interview process (2022)
+Coin flip web application created from past job interview process (2022)
